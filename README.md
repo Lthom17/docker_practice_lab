@@ -7,10 +7,15 @@ For this lab, you'll be creating a fake company webpage in React, creating a doc
    - Group Members: Daniel Bostrom, Cindy Hernandez, Giuseppe Jeanty, Rebecca Wu, Lauren Thom
    - Concept: Designer Makeup Sales
 1. [x] create repo & invite everyone
-1. [ ] create react app
+1. [x] create react app
+   - npx create-react-app@5 gdc
    1. [ ] routing
    1. [ ] 3 hardcoded pages (products/about us/etc)
+      - [ ] Products
+      - [ ] About
+      - [ ] Home
    1. [ ] some styling (no raw html please)
+      - [ ] add bootstrap
 1. [ ] add Dockerfile       (this will require research)
 1. [ ] add .dockerignore    (this will require research)
 1. [ ] generate image
