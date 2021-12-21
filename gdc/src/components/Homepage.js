@@ -23,7 +23,7 @@ function Homepage() {
     return (
 
         <body>
-        /* -- navbar -- */
+       
             <div>
                 <nav class="navbar navbar-default">
                     <div class="container-fluid">
@@ -32,14 +32,14 @@ function Homepage() {
                         </div>
                         <ul class="nav navbar-nav">
                             <li class="active"><a href="#">Home</a></li>
-                            <li><a href="./products">Products</a></li> /* -- maybe cut -- */
+                            <li><a href="./products">Products</a></li> 
                             <li><a href="./about">About Us</a></li>
                         </ul>
                     </div>
                 </nav>
             </div>
 
-        /* -- header -- */
+      
             <header class="" />
             <div class="p-5 text-center bg-light">
                 <h1 class="mb-3">Homepage</h1>
@@ -50,11 +50,13 @@ function Homepage() {
                 <a class="btn btn-primary" href="./products" role="button">Products</a>
             </div>
 
-        /* -- feature product-- */
+        
             <section class="">
                 <div>
                     <h4> Continue to products page
+                        <div style={{maxwidth : "33"}}>
                         <img className="img-fluid" src={image} />
+                        </div>
                     </h4>
                 </div>
             </section>
