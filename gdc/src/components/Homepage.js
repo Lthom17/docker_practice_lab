@@ -1,4 +1,5 @@
 
+import image from "../images/homepage.jpg"
 
 function Homepage() {
     return (
@@ -35,7 +36,7 @@ function Homepage() {
             <section class="">
                 <div>
                     <h4> Continue to products page
-                        <img src="./gdc/homepage.jpg" />
+                        <img className="img-fluid" src={image} />
                     </h4>
                 </div>
             </section>
@@ -44,6 +45,8 @@ function Homepage() {
         </body>
     )
 }
+
+export default Homepage;
 
 function welcomeHomepage() {
     return "Welcome to the Great Diamond Club";
@@ -63,4 +66,4 @@ function fakeAddress() {
     return "1234 Wallabe Way Sydney, CA";
 }
 
-export default Homepage;
+
