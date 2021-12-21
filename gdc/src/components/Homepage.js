@@ -1,4 +1,7 @@
 
+
+function Homepage()
+{
 return(
 <div>
     <div>NAVBAR: bootstrap </div>
@@ -6,8 +9,8 @@ return(
    <div></div>
    <img src= "./gdc/homepage.jpg"/>
 </div>
-
 )
+}
 
 function welcomeHomepage(){
 return "Welcome to the Great Diamond Club"; 
