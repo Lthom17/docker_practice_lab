@@ -2,7 +2,10 @@
 ## Overview
 For this lab, you'll be creating a fake company webpage in React, creating a docker image, then running it as a container and verifying you can see it in your browser.
 ## Steps
-1. [ ] brainstorm company name/concept
+1. [x] brainstorm company name/concept
+   - Name : Great Diamond Club
+   - Group Members: Daniel Bostrom, Cindy Hernandez, Giuseppe Jeanty, Rebecca Wu, Lauren Thom
+   - Concept: Designer Makeup Sales
 1. [x] create repo & invite everyone
 1. [ ] create react app
    1. [ ] routing
