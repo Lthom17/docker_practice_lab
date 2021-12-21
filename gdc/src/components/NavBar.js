@@ -1,4 +1,5 @@
 function NavBar() {
+    
     return( 
         <nav class="navbar navbar-expand-md">
             <a class="navbar-brand" href="#">Great Diamond Club</a>
@@ -8,13 +9,13 @@ function NavBar() {
             <div class="collapse navbar-collapse" id="main-navigation">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Home</a>
+                        <a class="nav-link" href="/">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="./products">Products</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./about">About Us</a>
+                        <a class="nav-link" href="./about-us">About Us</a>
                     </li>
                 </ul>
             </div>
