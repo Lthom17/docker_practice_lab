@@ -2,6 +2,24 @@
 import image from "../images/homepage.jpg"
 
 function Homepage() {
+
+    function welcomeHomepage() {
+        return "Welcome to the Great Diamond Club";
+    }
+    
+    function fakeEmail() {
+        return "contact@gdc.com";
+    
+    }
+    
+    function fakePhoneNumber() {
+        return "(919)252-8888";
+    
+    }
+    
+    function fakeAddress() {
+        return "1234 Wallabe Way Sydney, CA";
+    }
     return (
         <div>
             <div>NAVBAR: bootstrap </div>
@@ -16,23 +34,7 @@ function Homepage() {
 
 export default Homepage;
 
-function welcomeHomepage() {
-    return "Welcome to the Great Diamond Club";
-}
 
-function fakeEmail() {
-    return "contact@gdc.com";
-
-}
-
-function fakePhoneNumber() {
-    return "(919)252-8888";
-
-}
-
-function fakeAddress() {
-    return "1234 Wallabe Way Sydney, CA";
-}
 
 
 
