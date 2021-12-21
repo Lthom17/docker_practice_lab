@@ -9,13 +9,13 @@ For this lab, you'll be creating a fake company webpage in React, creating a doc
 1. [x] create repo & invite everyone
 1. [x] create react app
    - npx create-react-app@5 gdc
-   1. [ ] routing
-   1. [ ] 3 hardcoded pages (products/about us/etc)
-      - [ ] Products
+   1. [x] routing
+   1. [x] 3 hardcoded pages (products/about us/etc)
+      - [x] Products
       - [x] About Us
-      - [ ] Home
-   1. [ ] some styling (no raw html please)
-      - [ ] add bootstrap
+      - [x] Home
+   1. [x] some styling (no raw html please)
+      - [x] add bootstrap
 1. [ ] add Dockerfile       (this will require research)
 1. [ ] add .dockerignore    (this will require research)
 1. [ ] generate image
