@@ -1,4 +1,3 @@
-
 import image from "../images/homepage.jpg"
 
 function Homepage() {
@@ -28,5 +27,3 @@ function Homepage() {
 }
 
 export default Homepage;
-
-

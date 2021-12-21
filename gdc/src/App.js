@@ -7,8 +7,8 @@ import Products from './components/Products';
 
 class App extends React.Component {
   render() {
+    
     return (
-
       <Router>
 
         <NavBar/>
