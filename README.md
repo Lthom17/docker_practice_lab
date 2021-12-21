@@ -12,7 +12,7 @@ For this lab, you'll be creating a fake company webpage in React, creating a doc
    1. [ ] routing
    1. [ ] 3 hardcoded pages (products/about us/etc)
       - [ ] Products
-      - [ ] About
+      - [ ] About Us
       - [ ] Home
    1. [ ] some styling (no raw html please)
       - [ ] add bootstrap
